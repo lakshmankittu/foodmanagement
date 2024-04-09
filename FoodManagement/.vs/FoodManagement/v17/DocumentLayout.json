@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8510609-B2B4-4E6A-AC5B-0C55F11DCB67}|FoodManagement.Services\\FoodManagement.Services.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.services\\middlewareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8510609-B2B4-4E6A-AC5B-0C55F11DCB67}|FoodManagement.Services\\FoodManagement.Services.csproj|solutionrelative:foodmanagement.services\\middlewareservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|solutionrelative:foodmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.api\\middleware\\middlewarehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|solutionrelative:foodmanagement.api\\middleware\\middlewarehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5816F4F-F6AA-4A0C-AE3B-4DDD8A12267D}|FoodManagement.Models\\FoodManagement.Models.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.models\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5816F4F-F6AA-4A0C-AE3B-4DDD8A12267D}|FoodManagement.Models\\FoodManagement.Models.csproj|solutionrelative:foodmanagement.models\\ilogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FB895D9-8659-4C35-B138-F822F5F405C3}|FoodManagement.FoodDBContext\\FoodManagement.FoodDBContext.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.fooddbcontext\\datadbconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FB895D9-8659-4C35-B138-F822F5F405C3}|FoodManagement.FoodDBContext\\FoodManagement.FoodDBContext.csproj|solutionrelative:foodmanagement.fooddbcontext\\datadbconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5816F4F-F6AA-4A0C-AE3B-4DDD8A12267D}|FoodManagement.Models\\FoodManagement.Models.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5816F4F-F6AA-4A0C-AE3B-4DDD8A12267D}|FoodManagement.Models\\FoodManagement.Models.csproj|solutionrelative:foodmanagement.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8510609-B2B4-4E6A-AC5B-0C55F11DCB67}|FoodManagement.Services\\FoodManagement.Services.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8510609-B2B4-4E6A-AC5B-0C55F11DCB67}|FoodManagement.Services\\FoodManagement.Services.csproj|solutionrelative:foodmanagement.services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8510609-B2B4-4E6A-AC5B-0C55F11DCB67}|FoodManagement.Services\\FoodManagement.Services.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8510609-B2B4-4E6A-AC5B-0C55F11DCB67}|FoodManagement.Services\\FoodManagement.Services.csproj|solutionrelative:foodmanagement.services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|solutionrelative:foodmanagement.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|solutionrelative:foodmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.api\\foodmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|solutionrelative:foodmanagement.api\\foodmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.api\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54C4D30-CC09-4ABE-A70D-8F60FF391903}|FoodManagement.API\\FoodManagement.API.csproj|solutionrelative:foodmanagement.api\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5816F4F-F6AA-4A0C-AE3B-4DDD8A12267D}|FoodManagement.Models\\FoodManagement.Models.csproj|c:\\users\\laksh\\source\\repos\\foodmanagement\\foodmanagement.models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5816F4F-F6AA-4A0C-AE3B-4DDD8A12267D}|FoodManagement.Models\\FoodManagement.Models.csproj|solutionrelative:foodmanagement.models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiddlewareService.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Services\\MiddlewareService.cs",
+              "RelativeDocumentMoniker": "FoodManagement.Services\\MiddlewareService.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Services\\MiddlewareService.cs",
+              "RelativeToolTip": "FoodManagement.Services\\MiddlewareService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:06:19.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiddlewareHandler.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\Middleware\\MiddlewareHandler.cs",
+              "RelativeDocumentMoniker": "FoodManagement.API\\Middleware\\MiddlewareHandler.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\Middleware\\MiddlewareHandler.cs",
+              "RelativeToolTip": "FoodManagement.API\\Middleware\\MiddlewareHandler.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T05:02:41.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "FoodManagement.Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Services\\UserServices.cs",
+              "RelativeToolTip": "FoodManagement.Services\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:02:05.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FoodManagement.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FoodManagement.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:01:50.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Models\\User.cs",
+              "RelativeDocumentMoniker": "FoodManagement.Models\\User.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Models\\User.cs",
+              "RelativeToolTip": "FoodManagement.Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:43:24.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataDbConext.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.FoodDBContext\\DataDbConext.cs",
+              "RelativeDocumentMoniker": "FoodManagement.FoodDBContext\\DataDbConext.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.FoodDBContext\\DataDbConext.cs",
+              "RelativeToolTip": "FoodManagement.FoodDBContext\\DataDbConext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:51:38.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILogin.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Models\\ILogin.cs",
+              "RelativeDocumentMoniker": "FoodManagement.Models\\ILogin.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Models\\ILogin.cs",
+              "RelativeToolTip": "FoodManagement.Models\\ILogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T10:47:04.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "FoodManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\Program.cs",
+              "RelativeToolTip": "FoodManagement.API\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:59:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\appsettings.json",
+              "RelativeToolTip": "FoodManagement.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-03T05:57:35.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Services\\FoodService.cs",
+              "RelativeDocumentMoniker": "FoodManagement.Services\\FoodService.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Services\\FoodService.cs",
+              "RelativeToolTip": "FoodManagement.Services\\FoodService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T04:24:58.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Models\\Food.cs",
+              "RelativeDocumentMoniker": "FoodManagement.Models\\Food.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.Models\\Food.cs",
+              "RelativeToolTip": "FoodManagement.Models\\Food.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T05:38:43.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FoodManagement.API.http",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\FoodManagement.API.http",
+              "RelativeDocumentMoniker": "FoodManagement.API\\FoodManagement.API.http",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\FoodManagement.API.http",
+              "RelativeToolTip": "FoodManagement.API\\FoodManagement.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-04-05T08:35:32.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "FoodManagement.API\\Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\laksh\\source\\repos\\FoodManagement\\FoodManagement.API\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "FoodManagement.API\\Controllers\\FoodController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwEYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T04:24:40.956Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
